@@ -1,5 +1,6 @@
 package com.praticando.api.email.models;
 
+import com.praticando.api.email.enums.StatusEmail;
 import lombok.Data;
 
 import javax.persistence.*;
